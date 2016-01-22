@@ -22,4 +22,4 @@
 | CBSN_NODDI_Win_Single_WholeBrain.m | Windows | 1コア  | 全脳          |
 
 ## XCode 7 (Mac only)
-* **xcode7matlab.m**: XCode7をMATLABに対応させるパッチ
+* **xcode7matlab.m**: MATLABをXCode7に対応させるパッチ

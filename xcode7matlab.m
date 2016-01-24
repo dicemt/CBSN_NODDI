@@ -1,4 +1,4 @@
-% MEX cannot find a supported compiler in MATLAB R2015b and earlier 
+% MEX cannot find a supported compiler in MATLAB R2015b or earlier 
 % after upgrading to Xcode 7
 %__________________________________________________________________________
 % 2016 Daisuke MATSUYOSHI

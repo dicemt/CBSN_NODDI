@@ -4,7 +4,7 @@
 % CBSN Tutorial
 % 2016 Daisuke MATSUYOSHI
 %
-% Please replace 'username' to yours
+% Please replace 'username' with yours
 
 global AMICO_code_path AMICO_data_path CAMINO_path CONFIG
 global niiSIGNAL niiMASK

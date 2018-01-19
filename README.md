@@ -1,6 +1,8 @@
 # CBSN_NODDI
 「包括脳MRI脳画像解析チュートリアル」＠東京大学医学部で使用するNODDI解析スクリプトです。
 
+- [包括脳2016での講演スライド](https://www.slideshare.net/arayabi/2016-nodd-iturorialjpn20160123slideshare)
+
 ## AMICO
 | ファイル名       | OS      | 用途                |
 |------------------|---------|---------------------|
